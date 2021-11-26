@@ -1,6 +1,6 @@
 ## ONLINE CURRICULUM VITAE
 
-![T4](https://user-images.githubusercontent.com/89396698/143473684-58530399-1018-4537-9a79-67ceef5877fb.jpg)<img src="link" width="200" height="250">
+<img src="https://user-images.githubusercontent.com/89396698/143473684-58530399-1018-4537-9a79-67ceef5877fb.jpg" width="200" height="250">
 
 I'm Nuttee from Thailand.This digital curriculum vitae is proposed abount history of my personality, knowledge, graduation, ability including my development and activities. It is proud to me of my success and some evidence of exemple such as pictures and activities shown in ths curriculum vitae.I hope my curriculum vitae can present my ability informatively and person who read my curriculum vitae could understand my ability definitely. if this curriculum vitae have to get corrected or improved , pls advise.
 
@@ -65,15 +65,15 @@ UNIVERSITY :     THAMMASAT UNIVERSITY
 ## CERTIFICATES
 27 SEPTEMBER 2016
 - MATH CAMP
-![T1](https://user-images.githubusercontent.com/89396698/143468009-8c46623d-ca9c-4803-85a5-6e614a146cfc.jpg)
+<img src="https://user-images.githubusercontent.com/89396698/143468009-8c46623d-ca9c-4803-85a5-6e614a146cfc.jpg" width="200" height="250">
 
 11 JANUARY 2017
 - MATH QUIZ COMPETITION
-![T2](https://user-images.githubusercontent.com/89396698/143468406-c618c423-3430-4b1a-a53b-cbb338d66382.jpg)
+<img src="https://user-images.githubusercontent.com/89396698/143468406-c618c423-3430-4b1a-a53b-cbb338d66382.jpg" width="200" height="250">
 
 9 AUGUST 2017
 - A-MATH CHAMPPIONCHIP
-![T3](https://user-images.githubusercontent.com/89396698/143468859-d75b33cc-2638-4bce-abee-875f6424e8a3.jpg)
+<img src="https://user-images.githubusercontent.com/89396698/143468859-d75b33cc-2638-4bce-abee-875f6424e8a3.jpg" width="200" height="250">
 
 ## Hobi
 ```markdown
