@@ -31,9 +31,9 @@ Tel :      08 3919 5251
 
 Email :    Nuttee02092545@gmail.com
 
-IG :       https://instagram.com/nutteenutteenuttee?utm_medium=copy_link
+IG :       [Link](https://instagram.com/nutteenutteenuttee?utm_medium=copy_link)
 
-Facebook : https://www.facebook.com/nuttee.pimpason
+Facebook : [Link](https://www.facebook.com/nuttee.pimpason)
 
 
 ## EDUCATION
