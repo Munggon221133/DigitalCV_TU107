@@ -80,9 +80,9 @@ UNIVERSITY :     THAMMASAT UNIVERSITY
 
 ## Hobi
 ```markdown
-- Coding
-- Read
-- Music
-- Traveling
-- Workout
+- CODING
+- READ
+- MUSIC
+- TRAVELING
+- WORKOUT
 ```
