@@ -66,17 +66,17 @@ UNIVERSITY :     THAMMASAT UNIVERSITY
 27 SEPTEMBER 2016
 - MATH CAMP
 
-<img src="![T1](https://user-images.githubusercontent.com/89396698/143581716-c5dfa931-bf30-464d-91d9-f6fecf75f6eb.jpeg)" width="200" height="250">
+<img src="https://user-images.githubusercontent.com/89396698/143581716-c5dfa931-bf30-464d-91d9-f6fecf75f6eb.jpeg" width="350" height="250">
 
 11 JANUARY 2017
 - MATH QUIZ COMPETITION
 
-<img src="![T2](https://user-images.githubusercontent.com/89396698/143581763-a08d3fab-f412-4706-9c0c-ac28d3fcdaee.jpeg)" width="200" height="250">
+<img src="https://user-images.githubusercontent.com/89396698/143581763-a08d3fab-f412-4706-9c0c-ac28d3fcdaee.jpeg" width="350" height="250">
 
 9 AUGUST 2017
 - A-MATH CHAMPPIONSHIP
 
-<img src="![T3](https://user-images.githubusercontent.com/89396698/143581838-6aff5ef3-3404-437c-8909-8b3c62f314e9.jpeg)" width="200" height="250">
+<img src="https://user-images.githubusercontent.com/89396698/143581838-6aff5ef3-3404-437c-8909-8b3c62f314e9.jpeg" width="350" height="250">
 
 ## Hobi
 ```markdown
