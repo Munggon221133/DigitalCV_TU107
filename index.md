@@ -72,7 +72,7 @@ UNIVERSITY :     THAMMASAT UNIVERSITY
 <img src="https://user-images.githubusercontent.com/89396698/143468406-c618c423-3430-4b1a-a53b-cbb338d66382.jpg" width="200" height="250">
 
 9 AUGUST 2017
-- A-MATH CHAMPPIONCHIP
+- A-MATH CHAMPPIONSHIP
 <img src="https://user-images.githubusercontent.com/89396698/143468859-d75b33cc-2638-4bce-abee-875f6424e8a3.jpg" width="200" height="250">
 
 ### Hobi
