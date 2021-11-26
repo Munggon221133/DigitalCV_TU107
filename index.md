@@ -27,13 +27,13 @@ CODING -------52%
 
 
 ## Contact
-- Tel :      08 3919 5251
+Tel :      08 3919 5251
 
-- Email :    Nuttee02092545@gmail.com
+Email :    Nuttee02092545@gmail.com
 
-- IG :       https://instagram.com/nutteenutteenuttee?utm_medium=copy_link
+IG :       https://instagram.com/nutteenutteenuttee?utm_medium=copy_link
 
-- Facebook : https://www.facebook.com/nuttee.pimpason
+Facebook : https://www.facebook.com/nuttee.pimpason
 
 ## EDUCATION
 PRIMARY SCHOOL : SARASAS WITAED NIMITMAI SCHOOL
