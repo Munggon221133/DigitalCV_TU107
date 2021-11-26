@@ -35,17 +35,17 @@ IG :       https://instagram.com/nutteenutteenuttee?utm_medium=copy_link
 
 Facebook : https://www.facebook.com/nuttee.pimpason
 
+
 ## EDUCATION
+```markdown
 PRIMARY SCHOOL : SARASAS WITAED NIMITMAI SCHOOL
 
 HIGH SCHOOL :    BODINDECHA (SING SINGHASENI) 2
 
 UNIVERSITY :     THAMMASAT UNIVERSITY
-
-                    - COLLEGE OF INTERDISCIPLINARY
-                    
-                    - MAJOR OF DATA SCIENCE AND INNOVATION
-
+                  - COLLEGE OF INTERDISCIPLINARY
+                  - MAJOR OF DATA SCIENCE AND INNOVATION
+```
 
 ## HONORS AND AWARDS
 - TOP SCORE OF GRADE 8 ON MATHEMATICS SUBJECT IN 2016
