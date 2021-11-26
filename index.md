@@ -1,6 +1,6 @@
 ## ONLINE CURRICULUM VITAE
 
-![T4](https://user-images.githubusercontent.com/89396698/143473684-58530399-1018-4537-9a79-67ceef5877fb.jpg)
+![T4](https://user-images.githubusercontent.com/89396698/143473684-58530399-1018-4537-9a79-67ceef5877fb.jpg)<img src="link" width="200" height="250">
 
 I'm Nuttee from Thailand.This digital curriculum vitae is proposed abount history of my personality, knowledge, graduation, ability including my development and activities. It is proud to me of my success and some evidence of exemple such as pictures and activities shown in ths curriculum vitae.I hope my curriculum vitae can present my ability informatively and person who read my curriculum vitae could understand my ability definitely. if this curriculum vitae have to get corrected or improved , pls advise.
 
